@@ -2,8 +2,5 @@
 title: "About"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+This website is my personal website. Through this website, I aim to share insights from my professional journey, lessons learned, and the occasional musings on life. Whether you’re a fellow student, someone curious about my fields, I hope you find something that inspires or intrigues you.

@@ -8,8 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: "CV"
+        href: cv-academic-MN.pdf
       - about.qmd
-      - contact.qmd
+      
+  
+      
 
 format:
   html:

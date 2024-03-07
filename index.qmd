@@ -2,10 +2,12 @@
 title: "Welcome to My Website"
 ---
 
-This is a Quarto website.
+Welcome to my corner of the internet! I am a fourth year student at the University of Toronto in the department of Human Biology and Earth Science. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’ve always been fascinated by the intricate design of the human body and how the environment we live in influences our physical and mental well being.  This fascination led me to pursue my current degree, where I dove deep into the study of human physiology and environment. I have most recently completed a group project for the Toronto District School Board on how modes of transit for parents affect the air quality around the schools.
 
-```{r}
-1 + 1
-```
+In my spare time, you can find me exploring the great outdoors, experimenting with new culinary recipes, volunteering at my campus ministry. These activities not only fuel my creativity but also keep me grounded and connected to the community.
+
+Thank you for stopping by, and I’d love to connect! 
+
+
