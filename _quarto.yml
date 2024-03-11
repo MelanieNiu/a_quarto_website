@@ -3,18 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Melanie Niu"
+  title: "Me"
   navbar:
     left:
+
       - href: index.qmd
         text: Home
       - text: "CV"
-        href: cv-academic-MN.pdf
+        
       - about.qmd
       
   
-      
-
 format:
   html:
     theme: cosmo
